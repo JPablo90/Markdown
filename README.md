@@ -9,7 +9,7 @@ Gem is a ruby software package which offers particular functionalities to the ru
 
 |![Gem structure.](images/First_gem.png)|
 |:--:|
-|__***Figure 1.***Common structure of a gem in ruby.__|
+|**Figure 1.**__Common structure of a gem in ruby.__|
 
 Gem is a ruby software package which offers particular functionalities to the ruby programs. Each gem have a name, version, plataform, and follows the same standard structure of code organization. In the Figure 1  the common struct of a gem is presented.
 
@@ -28,6 +28,6 @@ The name of the gem will be My_first_gem, so in the terminal type the instructio
 
 |![Create a gem in ruby with bundler.](images/Create_gem.ong.png)|
 |:--:|
-|__***Figure 2.***Creating a gem in ruby with bundler.__|
+|**Figure 2.**__Creating a gem in ruby with bundler.__|
 
 When you use bundler for first time, you will be asked to make a initial configuration, in the which you decide if the unit test are added, among other components. The tree of your gem should look like the struct in the Figure 1.

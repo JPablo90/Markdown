@@ -7,7 +7,8 @@ In this file will be given the steps to create a Gem in Ruby. There are many way
 Gem is a ruby software package which offers particular functionalities to the ruby programs. Each gem have a name, version, plataform, and follows the same standard structure of code organization. In the Figure 1  the common struct of a gem is presented.
 
 
-![Gem structure.](images/First_gem.png)***Figure 1.**Common structure of a gem in ruby.*
+![Gem structure.](images/First_gem.png)
+*Figure 1.Common structure of a gem in ruby.*
 
 Gem is a ruby software package which offers particular functionalities to the ruby programs. Each gem have a name, version, plataform, and follows the same standard structure of code organization. In the Figure 1  the common struct of a gem is presented.
 
@@ -24,6 +25,7 @@ Bundler is a tool for managing Rubygems dependencies in Ruby libraries. To creat
 
 The name of the gem will be My_first_gem, so in the terminal type the instruction of step three.
 
-![Create a gem in ruby with bundler.](images/Create_gem.ong.png)***Figure 2.**Creating a gem in ruby with bundler.*
+![Create a gem in ruby with bundler.](images/Create_gem.ong.png)
+*Figure 2.Creating a gem in ruby with bundler.*
 
 When you use bundler for first time, you will be asked to make a initial configuration, in the which you decide if the unit test are added, among other components. The tree of your gem should look like the struct in the Figure 1.
